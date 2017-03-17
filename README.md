@@ -1,6 +1,8 @@
 # RemoteEXECution
 The folder contains com/cn/client1.Client and com/cn/Server
-execute server:
+
+
+execute server on terminal:
 javac com/cn/Server.java
 java com/cn/Server
 
