@@ -1,0 +1,3 @@
+Yash pass1 add
+Yash pass2 sub
+Plat pass3 sub
