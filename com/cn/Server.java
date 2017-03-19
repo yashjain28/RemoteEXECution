@@ -19,7 +19,7 @@ public class Server {
 	private static final int sPort = 8000;   //The server will be listening on this port number
 	private static final ArrayList<Integer> clientNumbers=new ArrayList<Integer>();
 	private static final ArrayList<ObjectOutputStream> clientStreams = new ArrayList<ObjectOutputStream>();
-	//private static final String fileRoot="D:\\Suyog_Java\\SP\\src\\com\\cn\\";
+	
 	static HashMap<String,String> map=new HashMap<>();
 	public static void main(String[] args) throws Exception {
 		System.out.println("The server is running."); 			
