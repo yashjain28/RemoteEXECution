@@ -135,7 +135,7 @@ public class Client {
 	public static void main(String args[])
 	{
 		Client client = new Client(args[0],Integer.parseInt(args[1]));
-		client.message=args[2]+","+args[3]+","+args[4];
+		client.message=args[2]+","+args[3]+","+args[4]; //taking user input from client
 		client.run();
 	}
 
